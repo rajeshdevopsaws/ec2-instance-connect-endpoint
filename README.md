@@ -57,4 +57,8 @@ You can see that we are connected to the EC2 instance without using the public I
 - (EC2 Instance Connect)[https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-methods.html]
 - (EC2 Instance Connect Endpoint)[https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-endpoints.html]
 - (EC2 Instance Connect CLI)[https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-set-up.html#ec2-instance-connect-connecting-ec2-cli]
+
+### How can you connect with me?
 You can connect with me on Linkedin Rajesh Kanumuru(https://www.linkedin.com/in/rajesh-kanumuru-1a0088141/)
+You can connect with me on X(Twitter) Rajesh Kanumuru(https://twitter.com/kanumururajesh) 
+
